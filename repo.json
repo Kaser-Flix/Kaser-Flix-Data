@@ -1,8 +1,10 @@
 {
-    "name": "Arabic providers repository",
-    "description": "Cloudstream Arabic Plugin Repository",
+    "name": "Kaser Flix Stable",
+    "description": "Stable Arabic Content",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/plugins.json"
+      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json",
+      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/mycima.json",
+      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/akwam.json"
     ]
 }
