@@ -1,8 +1,6 @@
 {
-  "name": "Kaser Flix Fixed",
+  "name": "Kaser Flix Pro Engine",
   "pluginLists": [
-    "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json",
-    "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/mycima.json", 
     "https://raw.githubusercontent.com/aymanbest/Arabico/main/plugins.json"
   ]
 }
