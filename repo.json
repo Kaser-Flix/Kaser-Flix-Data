@@ -1,10 +1,8 @@
 {
-    "name": "Kaser Flix Stable",
-    "description": "Stable Arabic Content",
+    "name": "Kaser Flix Ultimate",
+    "description": "Multi-Source Arabic Content",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json",
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/mycima.json",
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/akwam.json"
+      "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
     ]
 }
