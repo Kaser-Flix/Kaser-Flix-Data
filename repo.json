@@ -1,8 +1,1 @@
-{
-    "name": "Kaser Flix Ultimate",
-    "description": "Premium Arabic Sources",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/aymanbest/Arabico/main/plugins.json"
-    ]
-}
+https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json
