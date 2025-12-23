@@ -1,6 +1,6 @@
 {
-  "name": "Kaser Flix Pro",
+  "name": "Kaser Flix - ImZaw Engine",
   "pluginLists": [
-    "https://raw.githubusercontent.com/aymanbest/Arabico/main/plugins.json"
+    "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/plugins.json"
   ]
 }
