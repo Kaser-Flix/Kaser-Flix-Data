@@ -3,6 +3,6 @@
     "description": "Premium Arabic Sources",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
+        "https://raw.githubusercontent.com/aymanbest/Arabico/main/plugins.json"
     ]
 }
