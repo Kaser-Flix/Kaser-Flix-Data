@@ -1,1 +1,10 @@
-https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json
+{
+    "name": "Kaser Flix Stable",
+    "description": "Stable Movie Sources",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/faselhd.json",
+        "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/mycima.json",
+        "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/akwam.json"
+    ]
+}
